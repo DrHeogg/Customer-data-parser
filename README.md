@@ -1,6 +1,7 @@
 📊 Data Extractor & Enrichment Tool
 
 This Jupyter Notebook provides a comprehensive solution for extracting structured data from Excel files containing company information. It uses advanced NLP libraries to parse text and extract contacts, personal names, emails, phones, addresses, and job titles. The tool also enables enrichment of extracted data with email campaign results and merging of multiple datasets.
+
 🚀 Features
 
     Entity extraction – Names, surnames, patronymics, emails, general emails, phones, addresses, job titles
